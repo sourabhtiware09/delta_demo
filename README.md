@@ -1,2 +1,2 @@
 # delta_demo
-This is demo repo for git 
+This is demo repo for git. 
